@@ -3,7 +3,7 @@
 <h2>👨‍💻 Home Lab Projects:</h2>
 
 - <b>Home Lab Infrastructure Setup</b>
-  - [Setup homelab using open source software ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Setup homelab using open source softwares to upskill. ]
 
 - <b>Windows Server 2016 </b>
   - [Simulate Enterprise Environment using Windows Server2016](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
@@ -12,12 +12,15 @@
   - [Setup Pfsense router firewall](https://github.com/joshmadakor1/Sentinel-Lab)
 
 - <b>Learn Linux</b>
-  - [Learn Linux fundamentals (basic commands/File Structure/Networking tools)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Learn Linux fundamentals (basic commands/File Structure/Networking tools)]
   
 - <b>Open VPN</b>
-  - [Setup OpenVPN in Pfsense to access homelab remotely)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>Blue SOC team setup</b>
-- <b>Red team setup</b>
+  - [Setup OpenVPN in Pfsense to access homelab remotely)]
+
+-  <b>SIEM Setup</b>
+  -[Setup SIEM tool using Security Onion and Kali linux to simulate real life threat identification and mitigation processes.)]
+
+  
 
 <h2>👨‍💻 Guided Projects:</h2>
   - [Analyze network traffic using tcpdump and Wireshark](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
