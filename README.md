@@ -3,22 +3,22 @@
 <h2>👨‍💻 Home Lab Projects:</h2>
 
 - <b>Home Lab Infrastructure Setup</b>
-  - [Setup homelab using open source softwares to upskill. ]
+  - Setup homelab using open source softwares to upskill.
 
 - <b>Windows Server 2016 </b>
-  - [Simulate Enterprise Environment using Windows Server2016](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - Simulate Enterprise Environment using Windows Server2016
 
 - <b>Pfsense router/firewall setup</b>
-  - [Setup Pfsense router firewall](https://github.com/joshmadakor1/Sentinel-Lab)
+  - Setup Pfsense router firewall.
 
 - <b>Learn Linux</b>
-  - [Learn Linux fundamentals (basic commands/File Structure/Networking tools)]
+  - Learn Linux fundamentals (basic commands/File Structure/Networking tools)
   
 - <b>Open VPN</b>
-  - [Setup OpenVPN in Pfsense to access homelab remotely)]
+  - Setup OpenVPN in Pfsense to access homelab remotely
 
 -  <b>SIEM Setup</b>
-  -[Setup SIEM tool using Security Onion and Kali linux to simulate real life threat identification and mitigation processes.)]
+  -Setup SIEM tool using Security Onion and Kali linux to simulate real life threat identification and mitigation processes.
 
   
 
