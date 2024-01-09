@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tejas! <br/></h1></h2> <a href="https://www.linkedin.com/in/it-technician-tejas-patil">IT Technician</a>, <a href="https://github.com/Tejas-S-Patil/">Home Sys Admin and a Cybersecurity ethusiast</a>, </a></h2>
+<h1>Hi, I'm Tejas! <br/></h1></h2> IT Technician</a>, Home Sys Admin and a Cybersecurity ethusiast</a>, </a></h2>
 
 <h2>👨‍💻 Home Lab Projects:</h2>
 
@@ -16,14 +16,14 @@
   
 - <b>Open VPN</b>
   - Setup OpenVPN in Pfsense to access homelab remotely
-
--  <b>SIEM Setup</b>
-  -Setup SIEM tool using Security Onion and Kali linux to simulate real life threat identification and mitigation processes.
+    
+- <b>SIEM Setup</b>
+  - Setup SIEM tool using Security Onion and Kali linux to simulate real life threat identification and mitigation processes.
 
   
 
 <h2>👨‍💻 Guided Projects:</h2>
-  - [Analyze network traffic using tcpdump and Wireshark](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - Analyze network traffic using tcpdump and Wireshark(https://tryhackme.com/path/outline/soclevel1)
   
 <h2> 🤳 Connect with me:</h2>
 
