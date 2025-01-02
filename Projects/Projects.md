@@ -10,4 +10,4 @@
   - **Setup**: Implemented open-source FIM Wazuh solution. - **Features**: Provides FIM capabilities and allows integration with API-based platforms. - **Purpose**: Comprehensive monitoring and compliance checking.
 
 - <b>Compliance Standards Exposure</b>
-  Compliance Standards Exposure Both setups have enhanced my understanding and application of: - **CIS**: Center for Internet Security - **PCI DSS**: Payment Card Industry Data Security Standard - **HIPAA**: Health Insurance Portability and Accountability Act
+  Both setups have enhanced my understanding and application of: - **CIS**: Center for Internet Security - **PCI DSS**: Payment Card Industry Data Security Standard - **HIPAA**: Health Insurance Portability and Accountability Act
