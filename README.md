@@ -9,7 +9,7 @@
   -  Proxmox hypervisor is the backbone of my homelab. This opensource hypervisor allows me to build the infrastructure I want. 
     
 - <b>Windows Server 2022 </b>
-  - Simulate Enterprise Environment using Windows Server2016. This hands-on experience has allowed me to gain in-depth knowledge of Windows Server 2022 features, including Active Directory, Group Policy, ADCS, DNS, and DHCP. Through this setup, I am gaining skills in server administration, virtualization, and network management, contributing to my comprehensive understanding of Windows-based infrastructure. 
+  - Simulate Enterprise Environment using Windows Server2022. This hands-on experience has allowed me to gain in-depth knowledge of Windows Server 2022 features, including Active Directory, Group Policy, ADCS, DNS, and DHCP. Through this setup, I am gaining skills in server administration, virtualization, and network management, contributing to my comprehensive understanding of Windows-based infrastructure. 
 
 - <b>PfSense router/firewall setup</b>
   -  I have implemented and configured pfSense, a powerful open-source firewall and routing platform. This deployment serves as a critical component in my network infrastructure, providing robust security features, including firewall rules, VPN capabilities, and traffic monitoring. Through pfSense, I've gained hands-on experience in network segmentation, traffic shaping, and currenty using it for learning intrusion prevention which will enhance my skills in network security and administration. This practical exposure demonstrates my commitment to creating secure and efficient network architectures, and it complements my broader expertise in IT infrastructure management.
