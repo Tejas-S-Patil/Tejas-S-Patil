@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tejas! <br/></h1></h2> IT Technician</a>, Home Sys Admin and a Cybersecurity ethusiast</a>, </a></h2>
 
-<h2>👨‍💻 Home Lab Projects:</h2>
+<h2>👨‍💻 Home Lab Setup:</h2>
 
 - <b>Home Lab Infrastructure Setup</b>
   - Setup homelab using open source softwares to upskill.
